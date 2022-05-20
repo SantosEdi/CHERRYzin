@@ -1,7 +1,9 @@
 - 👋 Olá eu, sou o @CHERRYzin
 - 👀 Eu tenho interesse em Pensamento Computacional 
-- ⚽ Jogador caro,
+- ⚽ Jogador né vida 
+- 💻 Desenvolvedor 
 - 📧 edi.santos@escola.pr.gov.br
+- 
 
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
