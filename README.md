@@ -3,7 +3,7 @@
 - ⚽ ~Jogador né vida~
 - 💻 Desenvolvedor 
 - 🎮 *Eu gosto de games*
-- 📺 *Eu gosto de asistir animes*
+- 📺 *Eu gosto de assistir animes*
 - 📧 edi.santos@escola.pr.gov.br
 
 
