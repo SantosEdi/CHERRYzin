@@ -6,6 +6,7 @@
 - 🎮 Eu gosto de *games*
 
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
 
 <!---
 CHERRYzin/CHERRYzin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
