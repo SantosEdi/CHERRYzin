@@ -3,6 +3,7 @@
 - ⚽ Jogador né vida 
 - 💻 Desenvolvedor 
 - 📧 edi.santos@escola.pr.gov.br
+- 🎮 Eu gosto de *games*
 
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
