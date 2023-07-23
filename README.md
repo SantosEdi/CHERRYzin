@@ -1,4 +1,4 @@
-- 👋 Olá eu, sou o @CHERRYzin
+- 👋 Olá eu, sou o @SantosEdi
 - 👀 Eu tenho interesse em Pensamento Computacional 
 - ⚽ ~Jogador né vida~
 - 💻 Desenvolvedor 
